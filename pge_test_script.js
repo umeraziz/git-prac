@@ -22,7 +22,7 @@ includeDistributedPolicy("API_UTIL");
 includeDistributedPolicy("JS_UTIL");
 includeDistributedPolicy("POLICY_SET_API");
 includeDistributedPolicy("PERSON_DATA_API");
-includeDistributedPolicy("GENERIC_EXPORT_LIBRARY");
+includeDistributedPolicy("GENERIC_EXPORT_LIBRARY_OLD_2.0");
 
 //********** CONSTANTS ************************************
 
