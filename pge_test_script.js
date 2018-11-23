@@ -22,7 +22,7 @@ includeDistributedPolicy("API_UTIL");
 includeDistributedPolicy("JS_UTIL");
 includeDistributedPolicy("POLICY_SET_API");
 includeDistributedPolicy("PERSON_DATA_API");
-includeDistributedPolicy("GENERIC_EXPORT_LIBRARY_BRANCH_A_2");
+includeDistributedPolicy("GENERIC_EXPORT_LIBRARY_BRANCH_A_3");
 //********** CONSTANTS ************************************
 
 var FILE_PATH = EXPORT_PATH;
